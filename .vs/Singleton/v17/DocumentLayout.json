@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\facun\\OneDrive\\Escritorio\\C#\\Singleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{420082F0-CA7F-48D3-B2D0-763F13059B81}|Singleton\\Singleton_.csproj|c:\\users\\facun\\onedrive\\escritorio\\c#\\singleton\\singleton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420082F0-CA7F-48D3-B2D0-763F13059B81}|Singleton\\Singleton_.csproj|solutionrelative:singleton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420082F0-CA7F-48D3-B2D0-763F13059B81}|Singleton\\Singleton_.csproj|c:\\users\\facun\\onedrive\\escritorio\\c#\\singleton\\singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420082F0-CA7F-48D3-B2D0-763F13059B81}|Singleton\\Singleton_.csproj|solutionrelative:singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420082F0-CA7F-48D3-B2D0-763F13059B81}|Singleton\\Singleton.csproj|c:\\users\\facun\\onedrive\\escritorio\\c#\\singleton\\singleton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{420082F0-CA7F-48D3-B2D0-763F13059B81}|Singleton\\Singleton.csproj|solutionrelative:singleton\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 258,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\OneDrive\\Escritorio\\C#\\Singleton\\Singleton\\Form1.cs",
+              "RelativeDocumentMoniker": "Singleton\\Form1.cs",
+              "ToolTip": "C:\\Users\\facun\\OneDrive\\Escritorio\\C#\\Singleton\\Singleton\\Form1.cs",
+              "RelativeToolTip": "Singleton\\Form1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:37:03.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "singleton.cs",
+              "DocumentMoniker": "C:\\Users\\facun\\OneDrive\\Escritorio\\C#\\Singleton\\Singleton\\singleton.cs",
+              "RelativeDocumentMoniker": "Singleton\\singleton.cs",
+              "ToolTip": "C:\\Users\\facun\\OneDrive\\Escritorio\\C#\\Singleton\\Singleton\\singleton.cs",
+              "RelativeToolTip": "Singleton\\singleton.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:30:12.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\facun\\OneDrive\\Escritorio\\C#\\Singleton\\Singleton\\Form1.cs",
+              "RelativeDocumentMoniker": "Singleton\\Form1.cs",
+              "ToolTip": "C:\\Users\\facun\\OneDrive\\Escritorio\\C#\\Singleton\\Singleton\\Form1.cs [Design]",
+              "RelativeToolTip": "Singleton\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T00:42:17.223Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

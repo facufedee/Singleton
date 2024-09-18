@@ -1,0 +1,10 @@
+C:\Users\facun\OneDrive\Escritorio\C#\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\facun\OneDrive\Escritorio\C#\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\facun\OneDrive\Escritorio\C#\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\facun\OneDrive\Escritorio\C#\Singleton\Singleton\obj\Debug\Singleton_.csproj.AssemblyReference.cache
+C:\Users\facun\OneDrive\Escritorio\C#\Singleton\Singleton\obj\Debug\Singleton.Form1.resources
+C:\Users\facun\OneDrive\Escritorio\C#\Singleton\Singleton\obj\Debug\Singleton.Properties.Resources.resources
+C:\Users\facun\OneDrive\Escritorio\C#\Singleton\Singleton\obj\Debug\Singleton_.csproj.GenerateResource.cache
+C:\Users\facun\OneDrive\Escritorio\C#\Singleton\Singleton\obj\Debug\Singleton_.csproj.CoreCompileInputs.cache
+C:\Users\facun\OneDrive\Escritorio\C#\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\facun\OneDrive\Escritorio\C#\Singleton\Singleton\obj\Debug\Singleton.pdb
